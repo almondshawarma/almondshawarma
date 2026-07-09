@@ -2,7 +2,7 @@
 
 I'm an undergraduate nuclear engineering student at **Texas A&M**, currently doing precision-measurement
 physics at the **Cyclotron Institute**! I really like understanding things from first
-principles, building the instrument, deriving the math, then findind where it connects to
+principles, building the instrument, deriving the math, then finding where it connects to
 everything else.
 
 My long-term goal is working on magnetic confinement for **fusion energy**, but for now I'm lucky enough to work on some
