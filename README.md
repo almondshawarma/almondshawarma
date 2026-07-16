@@ -18,7 +18,14 @@ genuinely beautiful physics up close, and it's humbling how far first principles
   multipole ion optics driving a high-voltage crate over SNMP, cleaning the ion beam to
   a mass resolving power of **M/ΔM ≥ 5000**!
 
-### 🛠️ Featured project
+### 🛠️ Featured projects
+
+**[TAMUTRAP-timing](https://github.com/almondshawarma/TAMUTRAP-timing)**:
+The control software for TAMUTRAP's pulsed timing chain. It turns high-level pulse
+descriptions into low-level SpinCore PulseBlaster instructions so the trap catches ions
+at the right microsecond. One pure-Python core drives both a Tkinter operator GUI
+and a headless EPICS IOC. Every mode can run dry, with or without the hardware present.
+`Python` · `SpinAPI` · `caproto (EPICS)` · `Tkinter`
 
 **[LSTAR-MPOD-control](https://github.com/almondshawarma/LSTAR-MPOD-control)**:
 The production control software for LSTAR. It computes electrode voltages from physics
